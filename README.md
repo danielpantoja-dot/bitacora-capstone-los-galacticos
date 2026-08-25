@@ -23,7 +23,7 @@ El desafío consiste en desarrollar un prototipo de pluviómetro y sensor de tem
 ### DECLARACIÓN DE COMPROMISO SMART POR PERSONA
 Jean Paul Grangier Hernández (Electrónico): Desarrollar el hardware de captura de datos y telemetría del pluviómetro utilizando microcontroladores como placas ESP32 para asegurar la transmisión estable en zonas de baja conectividad al finalizar el semestre académico.
 
-Integrante 2 (Informático):
+Daniel Pantoja (Informático):
 Implementar una plataforma centralizada para el almacenamiento y visualización de datos mediante un dashboard web que reciba la telemetría de los sensores y los reportes ciudadanos para la entrega del prototipo final del curso.
 
 Integrante 3 (Industrial):
