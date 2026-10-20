@@ -282,3 +282,30 @@ Aspectos a investigar: Facilidad de uso, funcionamiento sin conexión, sincroniz
 Las alternativas identificadas muestran que el desafío puede abordarse desde diferentes dimensiones y no únicamente mediante la construcción de un nuevo pluviómetro. Algunas propuestas se enfocan en obtener información, otras en transmitirla, comunicar alertas, organizar a la comunidad o facilitar el acceso a los datos.
 
 A partir de este análisis preliminar, consideramos que las alternativas pueden combinarse para formar soluciones más completas. Como siguiente paso, desarrollaremos al menos **tres propuestas integrales** y las compararemos considerando aspectos técnicos, sociales, ambientales y económicos, antes de seleccionar la alternativa que será desarrollada durante la Unidad 3.
+
+### Bitácora 15/09:
+
+### Bitácora 22/09:
+Estado del arte, benchmark y soluciones
+### Actividad: 3 propuestas de solución:
+
+**Propuesta 1: Red de monitoreo automático**
+Objetivo: Automatizar la captura de lluvia y temperatura en puntos estratégicos y transmitir los datos cuando exista conectividad.
+Áreas de trabajo:
+* Electrónica: Diseño e implementación de los nodos de medición, sensores de lluvia y temperatura, ESP32, alimentación eléctrica y sistema de comunicación.
+* Informática: Programación de los dispositivos, transmisión y almacenamiento de datos, manejo de conectividad y visualización básica de las mediciones.
+* Industrial: Definición de los puntos de monitoreo, criterios de operación y mantenimiento de los equipos, además de la organización de la red de monitoreo y su posible escalabilidad.
+
+**Propuesta 2: Plataforma de monitoreo comunitario**
+Objetivo: Crear una plataforma que reúna datos de pluviómetros existentes, observaciones ciudadanas y otra información relevante en un mismo lugar.
+Áreas de trabajo:
+* Electrónica: Integración con los pluviómetros y sensores existentes, además de evaluar posibles dispositivos que permitan incorporar nuevas fuentes de datos.
+* Informática: Desarrollo de la plataforma, base de datos, mapas, visualización de mediciones, registro de observaciones y gestión de la información.
+* Industrial: Definición de los procesos de registro y uso de la información, organización de los actores involucrados y análisis de cómo la plataforma podría incorporarse al funcionamiento de la red comunitaria.
+
+**Propuesta 3: Sistema integrado de monitoreo y alerta**
+Objetivo: Combinar medición automática, reportes de observadores, plataforma de información y mecanismos de alerta cuando se detecten determinadas condiciones.
+Áreas de trabajo:
+* Electrónica: Implementación de sensores y dispositivos de medición, comunicación de datos y mecanismos físicos de alerta, como balizas o sirenas.
+* Informática: Desarrollo de la plataforma, integración de datos de sensores y observadores, almacenamiento, visualización y generación de alertas mediante medios digitales.
+* Industrial: Definición del flujo de información, criterios para activar alertas, coordinación entre observadores e instituciones, protocolos de operación, mantenimiento y escalabilidad del sistema.
