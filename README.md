@@ -169,7 +169,7 @@ Al finalizar la actividad comenzamos la **Unidad 2**, enfocada en ampliar las al
 
 Entre las ideas planteadas se encuentran:
 
-FOTO PAPELÓGRAFO
+**FOTO PAPELÓGRAFO**
 
 Estas ideas nos permitieron ampliar el enfoque del proyecto desde la medición de precipitaciones hacia la captura, transmisión, interpretación y comunicación de información para la gestión preventiva del riesgo.
 
@@ -284,12 +284,14 @@ Las alternativas identificadas muestran que el desafío puede abordarse desde di
 A partir de este análisis preliminar, consideramos que las alternativas pueden combinarse para formar soluciones más completas. Como siguiente paso, desarrollaremos al menos **tres propuestas integrales** y las compararemos considerando aspectos técnicos, sociales, ambientales y económicos, antes de seleccionar la alternativa que será desarrollada durante la Unidad 3.
 
 ### Bitácora 15/09:
+No recuerdo xd
 
 ### Bitácora 22/09:
 Estado del arte, benchmark y soluciones
 ### Actividad: 3 propuestas de solución:
 
 **Propuesta 1: Red de monitoreo automático**
+
 Objetivo: Automatizar la captura de lluvia y temperatura en puntos estratégicos y transmitir los datos cuando exista conectividad.
 Áreas de trabajo:
 * Electrónica: Diseño e implementación de los nodos de medición, sensores de lluvia y temperatura, ESP32, alimentación eléctrica y sistema de comunicación.
@@ -297,6 +299,7 @@ Objetivo: Automatizar la captura de lluvia y temperatura en puntos estratégicos
 * Industrial: Definición de los puntos de monitoreo, criterios de operación y mantenimiento de los equipos, además de la organización de la red de monitoreo y su posible escalabilidad.
 
 **Propuesta 2: Plataforma de monitoreo comunitario**
+
 Objetivo: Crear una plataforma que reúna datos de pluviómetros existentes, observaciones ciudadanas y otra información relevante en un mismo lugar.
 Áreas de trabajo:
 * Electrónica: Integración con los pluviómetros y sensores existentes, además de evaluar posibles dispositivos que permitan incorporar nuevas fuentes de datos.
@@ -304,6 +307,7 @@ Objetivo: Crear una plataforma que reúna datos de pluviómetros existentes, obs
 * Industrial: Definición de los procesos de registro y uso de la información, organización de los actores involucrados y análisis de cómo la plataforma podría incorporarse al funcionamiento de la red comunitaria.
 
 **Propuesta 3: Sistema integrado de monitoreo y alerta**
+
 Objetivo: Combinar medición automática, reportes de observadores, plataforma de información y mecanismos de alerta cuando se detecten determinadas condiciones.
 Áreas de trabajo:
 * Electrónica: Implementación de sensores y dispositivos de medición, comunicación de datos y mecanismos físicos de alerta, como balizas o sirenas.
