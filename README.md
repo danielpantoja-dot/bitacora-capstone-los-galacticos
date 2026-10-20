@@ -284,7 +284,6 @@ Las alternativas identificadas muestran que el desafío puede abordarse desde di
 A partir de este análisis preliminar, consideramos que las alternativas pueden combinarse para formar soluciones más completas. Como siguiente paso, desarrollaremos al menos **tres propuestas integrales** y las compararemos considerando aspectos técnicos, sociales, ambientales y económicos, antes de seleccionar la alternativa que será desarrollada durante la Unidad 3.
 
 ### Bitácora 15/09:
-No recuerdo xd
 
 ### Bitácora 22/09:
 Estado del arte, benchmark y soluciones
