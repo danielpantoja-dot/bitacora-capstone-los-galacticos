@@ -118,7 +118,7 @@ Queremos comprender el problema desde la perspectiva de un observador comunitari
 * Peor capacidad de respuesta --> Lo sabemos
 * Mayor exposición ante una emergencia --> Lo sabemos
 
-### Bitácora 01/09/:
+### Bitácora 01/09:
 ### Actividad: Presentación del desafío y contexto.
 
 Durante esta jornada realizamos la presentación grupal del desafío. La actividad consistía en explicar el desafío, su contexto y la problemática, sin presentar todavía posibles soluciones. Fuimos el primer grupo en exponer y la presentación tenía un tiempo máximo de 5 minutos.
