@@ -117,3 +117,168 @@ Queremos comprender el problema desde la perspectiva de un observador comunitari
 * Menor preparación de la comunidad --> Lo sabemos
 * Peor capacidad de respuesta --> Lo sabemos
 * Mayor exposición ante una emergencia --> Lo sabemos
+
+### Bitácora 01/09/:
+### Actividad: Presentación del desafío y contexto.
+
+Durante esta jornada realizamos la presentación grupal del desafío. La actividad consistía en explicar el desafío, su contexto y la problemática, sin presentar todavía posibles soluciones. Fuimos el primer grupo en exponer y la presentación tenía un tiempo máximo de 5 minutos.
+
+Durante la exposición logramos presentar el contexto de San José de Maipo, el riesgo asociado a los aluviones y la problemática identificada durante nuestra investigación. Sin embargo, tuvimos algunas dificultades durante la presentación. A algunos integrantes les costó recordar sus intervenciones y se evidenció poca coordinación entre las distintas partes. Además, la presentación se extendió aproximadamente hasta los 6 minutos, superando el tiempo establecido.
+
+A pesar de estas dificultades, logramos transmitir la idea general del desafío y explicar su importancia para las comunidades de San José de Maipo.
+
+**Retroalimentación recibida**
+La profesora destacó que el equipo cuenta con una buena base de trabajo y que la bitácora muestra avances. Como aspectos a mejorar, señaló la coordinación entre los integrantes, la distribución de la participación, el manejo del tiempo, el volumen y tono de voz y la preparación previa de la presentación.
+
+**Reflexión y oportunidades de mejora**
+Como equipo identificamos que necesitamos mejorar nuestra preparación y coordinación antes de las presentaciones. Para próximas instancias acordamos realizar al menos un ensayo grupal, distribuir mejor los tiempos, revisar las intervenciones de cada integrante y entregarnos retroalimentación sobre la claridad del mensaje, volumen de voz y expresión corporal.
+
+También consideramos importante registrar en la bitácora el proceso de preparación de las presentaciones y mantener actualizada la ficha de avance de investigación.
+
+### Bitácora 08/09:
+### Actividad: Ejercicio de observación y conexión con el desafío
+
+Durante esta jornada realizamos una actividad de observación en un espacio cercano al campus. El objetivo era aprender a **observar antes de interpretar**, registrando situaciones concretas relacionadas con los flujos de personas, conductas, infraestructura, objetos, tecnología, accesibilidad y dificultades de uso.
+
+Cada integrante del equipo trabajó con un foco de observación diferente. Durante 10 minutos registramos únicamente situaciones que pudiéramos observar, escuchar, contar o medir, evitando interactuar con las personas. Al finalizar, cada integrante escribió sus observaciones en una hoja para posteriormente entregarlas a la profesora.
+
+### Reflexión y conexión con nuestro desafío
+
+Esta actividad nos permitió identificar una relación directa con nuestro proyecto, ya que en ambos casos es necesario **observar primero y sacar conclusiones después**. En nuestro desafío, por ejemplo, podemos tener la idea de que los observadores comunitarios tienen dificultades para registrar o comunicar información, pero esto no necesariamente constituye un hecho si todavía no contamos con evidencia suficiente.
+
+A partir de esta actividad comprendimos la importancia de diferenciar entre **hechos, interpretaciones y supuestos**. Esto nos permitirá evitar diseñar una solución basándonos únicamente en nuestras propias ideas y, en cambio, buscar evidencia que permita comprender mejor las necesidades reales de los usuarios.
+
+También identificamos competencias que debemos aplicar tanto en la observación como en nuestro proyecto:
+
+* Capacidad de observación: identificar situaciones concretas antes de sacar conclusiones.
+* Pensamiento crítico: cuestionar aquello que asumimos como verdadero.
+* Análisis de información: diferenciar evidencia de interpretaciones.
+* Empatía: comprender las dificultades desde la perspectiva de quienes utilizan o viven el territorio.
+* Trabajo en equipo: comparar las observaciones de cada integrante para obtener una visión más completa.
+* Capacidad de adaptación: reconocer que una solución debe responder a las condiciones reales del territorio y sus usuarios.
+
+Como conexión con nuestro proyecto, cuestionamos la siguiente afirmación:
+
+**“Los observadores comunitarios necesitan una herramienta automatizada para registrar y comunicar información sobre las condiciones del territorio.”**
+
+Actualmente consideramos esta afirmación como un **supuesto**, ya que todavía necesitamos obtener evidencia directa de los usuarios para comprobar qué dificultades enfrentan realmente, qué información necesitan registrar, cómo la comunican actualmente y qué tipo de herramienta estarían dispuestos a utilizar.
+
+### Inicio de la Unidad 2
+
+Al finalizar la jornada comenzamos la **Unidad 2**, enfocada en ampliar las alternativas de solución. Realizamos una primera lluvia de ideas considerando que la respuesta al desafío no necesariamente debe consistir en mejorar directamente el pluviómetro existente.
+
+Entre las ideas planteadas se encuentran:
+
+FOTO PAPELÓGRAFO
+
+Estas ideas nos permitieron ampliar el enfoque del proyecto desde la **medición de precipitaciones** hacia la captura, transmisión, interpretación y comunicación de información para la gestión preventiva del riesgo.
+
+### Trabajo asincrónico: Análisis preliminar de alternativas de solución
+
+Como trabajo asincrónico, analizamos las ideas obtenidas durante la lluvia de ideas de la Unidad 2. El objetivo fue identificar qué problema aborda cada alternativa, qué elementos requeriría y qué aspectos deberían investigarse antes de considerarla como una posible solución.
+
+**1. Asignación de roles para emergencias**
+
+Busca mejorar la organización de los vecinos durante una situación de emergencia, definiendo responsabilidades previamente, como comunicación, observación y apoyo a otros habitantes.
+
+Requerimientos: Protocolos de actuación, definición de responsables y medios de comunicación.
+
+Aspectos a investigar: Disposición de la comunidad a participar, coordinación con organismos oficiales y capacidad de mantener los roles activos.
+
+---
+
+**2. Sistema de priorización para sectores críticos**
+
+Busca identificar y ordenar sectores según su nivel de exposición al riesgo, permitiendo concentrar los esfuerzos de monitoreo y prevención en aquellos lugares que requieran mayor atención.
+
+Requerimientos: Información territorial, criterios de priorización, mapas y registro de sectores críticos.
+
+Aspectos a investigar: Información disponible, criterios utilizados actualmente por las instituciones y posibilidad de actualizar la priorización.
+
+---
+
+**3. Kit de reparación de pluviómetros**
+
+Consiste en un kit básico que permita a los observadores comunitarios realizar reparaciones y mantenimiento de los pluviómetros ante fallas o daños menores, evitando que los equipos queden fuera de funcionamiento por períodos prolongados.
+
+Requerimientos: Herramientas básicas, repuestos, elementos de fijación y una guía de reparación.
+
+Aspectos a investigar: Fallas más frecuentes, costo y disponibilidad de repuestos, facilidad de reparación y frecuencia de mantenimiento.
+
+---
+
+**4. Alarmas visuales**
+
+Consiste en instalar dispositivos como balizas o semáforos que permitan comunicar visualmente una condición determinada de riesgo o una alerta.
+
+Requerimientos: Dispositivo visual, sistema de control, fuente de energía y criterio para activar la alerta.
+
+Aspectos a investigar: Visibilidad, ubicación, autonomía energética y coordinación con los sistemas oficiales de alerta.
+
+---
+
+**5. Pluviómetro con transmisión por radio**
+
+Busca automatizar la medición de precipitaciones y transmitir los datos desde sectores donde la conectividad a Internet o telefonía sea limitada.
+
+Requerimientos: Sensor de precipitación, microcontrolador, módulo de radio, alimentación y estación receptora.
+
+Aspectos a investigar: Alcance de la comunicación, consumo energético, topografía y cantidad de estaciones necesarias.
+
+---
+
+**6. Sistema de respaldo energético solar**
+
+Consiste en utilizar paneles solares y baterías para mantener operativos los equipos de monitoreo en sectores donde no exista acceso permanente a la red eléctrica.
+
+Requerimientos: Panel solar, batería, controlador de carga y sistema de protección.
+
+Aspectos a investigar: Consumo de los equipos, disponibilidad de radiación solar, autonomía y mantenimiento.
+
+---
+
+**7. Envío automático de mensajes de texto**
+
+Busca comunicar automáticamente una determinada condición o evento mediante mensajes de texto a usuarios previamente definidos.
+
+Requerimientos: Sistema de detección, plataforma de envío, conectividad móvil y base de contactos.
+
+Aspectos a investigar: Cobertura celular, costos de envío, cantidad de usuarios y criterios para activar los mensajes.
+
+---
+
+**8. Sensores conectados en cadena**
+
+Consiste en implementar varios puntos de medición que puedan comunicarse entre sí, formando una red para transportar los datos desde sectores alejados hasta un punto con conexión.
+
+Requerimientos: Sensores, microcontroladores, módulos de comunicación y nodos de retransmisión.
+
+Aspectos a investigar: Distancia entre nodos, topografía, consumo energético y confiabilidad de la red.
+
+---
+
+**9. Bot de alertas mediante WhatsApp**
+
+Busca facilitar la comunicación con los observadores y comunidades mediante un sistema automatizado capaz de enviar o recibir información a través de WhatsApp.
+
+Requerimientos: Plataforma de mensajería, servidor, conexión a Internet y sistema para gestionar los mensajes.
+
+Aspectos a investigar: Conectividad, costos, facilidad de uso y posibilidad de integrar datos provenientes de sensores.
+
+---
+
+**10. Aplicación comunitaria sin conexión**
+
+Consiste en una aplicación que permita a los observadores registrar información, fotografías o eventos incluso cuando no exista conexión a Internet, sincronizando los datos posteriormente.
+
+Requerimientos: Aplicación móvil, almacenamiento local y mecanismo de sincronización.
+
+Aspectos a investigar: Facilidad de uso, funcionamiento sin conexión, sincronización y compatibilidad con distintos dispositivos.
+
+---
+
+### Análisis general
+
+Las alternativas identificadas muestran que el desafío puede abordarse desde diferentes dimensiones y no únicamente mediante la construcción de un nuevo pluviómetro. Algunas propuestas se enfocan en **obtener información**, otras en **transmitirla**, **comunicar alertas**, **organizar a la comunidad** o **facilitar el acceso a los datos**.
+
+A partir de este análisis preliminar, consideramos que las alternativas pueden combinarse para formar soluciones más completas. Como siguiente paso, desarrollaremos al menos **tres propuestas integrales** y las compararemos considerando aspectos **técnicos, sociales, ambientales y económicos**, antes de seleccionar la alternativa que será desarrollada durante la Unidad 3.
