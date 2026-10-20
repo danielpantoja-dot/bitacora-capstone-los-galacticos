@@ -127,10 +127,10 @@ Durante la exposición logramos presentar el contexto de San José de Maipo, el 
 
 A pesar de estas dificultades, logramos transmitir la idea general del desafío y explicar su importancia para las comunidades de San José de Maipo.
 
-**Retroalimentación recibida**
+**Retroalimentación recibida:**
 La profesora destacó que el equipo cuenta con una buena base de trabajo y que la bitácora muestra avances. Como aspectos a mejorar, señaló la coordinación entre los integrantes, la distribución de la participación, el manejo del tiempo, el volumen y tono de voz y la preparación previa de la presentación.
 
-**Reflexión y oportunidades de mejora**
+**Reflexión y oportunidades de mejora:**
 Como equipo identificamos que necesitamos mejorar nuestra preparación y coordinación antes de las presentaciones. Para próximas instancias acordamos realizar al menos un ensayo grupal, distribuir mejor los tiempos, revisar las intervenciones de cada integrante y entregarnos retroalimentación sobre la claridad del mensaje, volumen de voz y expresión corporal.
 
 También consideramos importante registrar en la bitácora el proceso de preparación de las presentaciones y mantener actualizada la ficha de avance de investigación.
@@ -165,13 +165,13 @@ Actualmente consideramos esta afirmación como un **supuesto**, ya que todavía 
 
 ### Inicio de la Unidad 2
 
-Al finalizar la jornada comenzamos la **Unidad 2**, enfocada en ampliar las alternativas de solución. Realizamos una primera lluvia de ideas considerando que la respuesta al desafío no necesariamente debe consistir en mejorar directamente el pluviómetro existente.
+Al finalizar la actividad comenzamos la **Unidad 2**, enfocada en ampliar las alternativas de solución. Realizamos una primera lluvia de ideas considerando que la respuesta al desafío no necesariamente debe consistir en mejorar directamente el pluviómetro existente.
 
 Entre las ideas planteadas se encuentran:
 
 FOTO PAPELÓGRAFO
 
-Estas ideas nos permitieron ampliar el enfoque del proyecto desde la **medición de precipitaciones** hacia la captura, transmisión, interpretación y comunicación de información para la gestión preventiva del riesgo.
+Estas ideas nos permitieron ampliar el enfoque del proyecto desde la medición de precipitaciones hacia la captura, transmisión, interpretación y comunicación de información para la gestión preventiva del riesgo.
 
 ### Trabajo asincrónico: Análisis preliminar de alternativas de solución
 
@@ -279,6 +279,6 @@ Aspectos a investigar: Facilidad de uso, funcionamiento sin conexión, sincroniz
 
 ### Análisis general
 
-Las alternativas identificadas muestran que el desafío puede abordarse desde diferentes dimensiones y no únicamente mediante la construcción de un nuevo pluviómetro. Algunas propuestas se enfocan en **obtener información**, otras en **transmitirla**, **comunicar alertas**, **organizar a la comunidad** o **facilitar el acceso a los datos**.
+Las alternativas identificadas muestran que el desafío puede abordarse desde diferentes dimensiones y no únicamente mediante la construcción de un nuevo pluviómetro. Algunas propuestas se enfocan en obtener información, otras en transmitirla, comunicar alertas, organizar a la comunidad o facilitar el acceso a los datos.
 
-A partir de este análisis preliminar, consideramos que las alternativas pueden combinarse para formar soluciones más completas. Como siguiente paso, desarrollaremos al menos **tres propuestas integrales** y las compararemos considerando aspectos **técnicos, sociales, ambientales y económicos**, antes de seleccionar la alternativa que será desarrollada durante la Unidad 3.
+A partir de este análisis preliminar, consideramos que las alternativas pueden combinarse para formar soluciones más completas. Como siguiente paso, desarrollaremos al menos **tres propuestas integrales** y las compararemos considerando aspectos técnicos, sociales, ambientales y económicos, antes de seleccionar la alternativa que será desarrollada durante la Unidad 3.
