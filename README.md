@@ -286,6 +286,11 @@ A partir de este análisis preliminar, consideramos que las alternativas pueden 
 ### Bitácora 15/09:
 
 ### Bitácora 22/09:
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-20 at 10 33 26" src="https://github.com/user-attachments/assets/2a6b91e0-eb17-465f-98dd-60674939eda9" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-20 at 10 33 27" src="https://github.com/user-attachments/assets/3e96ebda-c42c-4718-a5e0-28df57ae7a27" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-20 at 10 33 27 (1)" src="https://github.com/user-attachments/assets/f771bf2f-8252-47f9-8a82-a289319fbf9e" />
+
 Estado del arte, benchmark y soluciones
 ### Actividad: 3 propuestas de solución:
 
